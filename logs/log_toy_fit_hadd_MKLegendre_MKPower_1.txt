@@ -1,0 +1,6 @@
+hadd Target file: temps/nbynMKLegendreMKPower1/fitDiagnostics.root
+hadd compression setting for all ouput: 1
+hadd Source file 1: temps/nbynMKLegendreMKPower1_seed1/fitDiagnostics.root
+hadd Source file 2: temps/nbynMKLegendreMKPower1_seed2/fitDiagnostics.root
+hadd Source file 3: temps/nbynMKLegendreMKPower1_seed3/fitDiagnostics.root
+hadd Target path: temps/nbynMKLegendreMKPower1/fitDiagnostics.root:/
